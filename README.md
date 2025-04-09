@@ -45,9 +45,6 @@ src/
 └── main.jsx             # Entry point
 ```
 
-## ✨ Preview
-
-> You can add screenshots or a demo GIF here
 
 ## 🔮 Future Ideas (v2.0)
 
