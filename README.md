@@ -1,6 +1,6 @@
 # 🛒 Mini Market
 
-A simple shopping cart app built with **React + Tailwind CSS**. Users can add products, modify quantities, get discounts, and their cart is saved persistently using **localStorage**. This project is my first project as software developer, and i'm open to get feedback.
+A simple shopping cart app built with **React + Tailwind CSS**. Users can add products, modify quantities, get discounts, and their cart is saved persistently using **localStorage**. This project is my first project as software developer student, and i'm open to get feedback.
 
 ## 🚀 Features
 
